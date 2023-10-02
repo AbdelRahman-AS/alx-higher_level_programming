@@ -7,4 +7,4 @@
 # fi
 
 # Run the Python code
-python3 -c "$PYCODE"
+python3 - c "$PYCODE"
