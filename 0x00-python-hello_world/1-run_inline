@@ -1,15 +1,2 @@
 #!/bin/bash
-
-
-# if [[ -z "$PYCODE" ]]; then
-#   echo "The PYCODE is not set."
-#   exit 1
-# fi
-
-# Run the Python code
-<<<<<<< HEAD:1-run_inline
-python3 -c "$PYCODE"
-
-=======
-python3 - c "$PYCODE"
->>>>>>> 89997c5a93343b0a0964546ffc8986a53c6a9f58:0x00-python-hello_world/1-run_inline
+python3 < < < $PYCODE
