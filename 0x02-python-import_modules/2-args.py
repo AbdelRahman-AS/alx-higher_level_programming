@@ -12,4 +12,3 @@ else:
 
 for i in range(0,count):
     print(f"{i +1}: {sys.argv[i+1]} ")
-
