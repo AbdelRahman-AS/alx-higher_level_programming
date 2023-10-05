@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if __name__ != "__maim__":
+if __name__ != "__main__":
     exit
 from calculator_1 import add, sub, mul, div
 a = 10
