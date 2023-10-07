@@ -2,7 +2,7 @@
 def element_at(my_list, idx):
     length = len(my_list)
     if idx > length or idx < 0:
-        return "None"
+        return None
     for i in range(0, length):
         if i == idx:
-            return "{}".format(my_list[i])
+            return my_list[i]
